@@ -1,0 +1,20 @@
+.navbar-brand {
+    background-color: grey
+
+}
+
+body {
+    background-color: green
+}
+.content {
+   background-color: white;
+    width: 500px;
+    height: 400px;
+    margin-top: 200px;
+    align-items: center;
+}
+
+img {
+    width: 20%;
+}
+

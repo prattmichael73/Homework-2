@@ -18,3 +18,23 @@ img {
     width: 20%;
 }
 
+.contact-info {
+    font-size: 36px;
+    color: orange; 
+}
+
+.contact-info a {
+    font-size: 36px;
+    color: orange; 
+}
+
+.works a {
+font-size: 36px;
+color: orange;
+}
+
+.works img{
+display: block;
+width: 500px;
+/* margin: auto;  */
+}
